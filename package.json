@@ -1,0 +1,24 @@
+{
+  "name": "gas-drive-service-utils",
+  "version": "1.0.0",
+  "description": "Utility functions for Google Apps Script Drive Advanced Service. Helpful for handling files and folders in Google Drive, especially for those in shared drives and folders.",
+  "main": "src/DriveServiceUtils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanielBrewer/gas-drive-service-utils.git"
+  },
+  "keywords": [
+    "google-drive-advanced-service",
+    "google-apps-script",
+    "google-drive"
+  ],
+  "author": "nathanielc.brewer@gmail.com",
+  "license": "SEE LICENSE IN LICENCE",
+  "bugs": {
+    "url": "https://github.com/NathanielBrewer/gas-drive-service-utils/issues"
+  },
+  "homepage": "https://github.com/NathanielBrewer/gas-drive-service-utils#readme"
+}
